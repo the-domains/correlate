@@ -1,7 +1,8 @@
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+cta:
+  bucket: null
+  version: null
+  domain: null
+name: correlate
 opengraph:
   image: null
   type: null
@@ -12,17 +13,14 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-layout_spectrum: 0.24084
-cta:
-  bucket: null
-  version: null
-  domain: null
+    permalink:
+      path: '/:title/'
+purpose: []
+typography_spectrum: 0.32659
 color:
   saturation: 0.75
   brandStrength: 0.5
@@ -34,7 +32,9 @@ color:
     - '#ac1d30'
     - '#fcd0d3'
   lightness: 0.625
-purpose: []
+layout_spectrum: 0.8693086
+analytics:
+  twitter: null
+  google: null
+  facebook: null
 favicon: null
-name: correlate
-typography_spectrum: 0.32659
