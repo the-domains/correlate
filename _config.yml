@@ -1,6 +1,6 @@
 name: correlate
 favicon: null
-layout_spectrum: 0.23506
+layout_spectrum: 0.24084
 typography_spectrum: 0.32659
 cta:
   domain: null
@@ -23,6 +23,6 @@ color:
     - '#f3827d'
   brandStrength: 0.375
   lightness: 0.625
-  saturation: 0.6875
+  saturation: 0.75
   rhythmicContrast: 0.25
 purpose: []
