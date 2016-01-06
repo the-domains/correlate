@@ -1,8 +1,7 @@
+name: correlate
+favicon: null
 layout_spectrum: 0.7057335
-opengraph:
-  image: null
-  type: null
-  appId: null
+typography_spectrum: 0.32659
 collections:
   - index:
       path: /
@@ -15,26 +14,28 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-purpose: []
+title: Correlation Limited
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.75
-  brandStrength: 0.5
-  rhythmicContrast: 0.75
   brandColors:
     - '#474248'
     - '#a9a19f'
     - '#12090e'
     - '#ac1d30'
     - '#fcd0d3'
+  brandStrength: 0.5
   lightness: 0.625
-typography_spectrum: 0.32659
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
-name: correlate
+  saturation: 0.75
+  rhythmicContrast: 0.75
+purpose: []
