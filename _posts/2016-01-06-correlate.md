@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-06T21:06:30.500Z'
-dateModified: '2016-01-06T21:05:12.119Z'
+datePublished: '2016-01-06T21:16:13.767Z'
+dateModified: '2016-01-06T21:09:00.483Z'
 title: Correlate
 author: []
 sourcePath: _posts/2016-01-06-correlate.md
