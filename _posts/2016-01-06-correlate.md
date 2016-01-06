@@ -7,18 +7,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-06T18:33:38.471Z'
-dateModified: '2016-01-06T18:33:32.228Z'
+datePublished: '2016-01-06T21:06:30.500Z'
+dateModified: '2016-01-06T21:05:12.119Z'
 title: Correlate
 author: []
+sourcePath: _posts/2016-01-06-correlate.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-06-correlate.md
-published: true
 _type: Blurb
 
 ---
