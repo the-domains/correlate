@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Correlation Limited]]></title>
+        <description><![CDATA[Correlation Limited]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 08 Jan 2016 11:15:15 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Home - Visualising Data]]></title>
+            <description><![CDATA[<article><h1>Home - Visualising Data</h1><p>AN UPDATE ABOUT MY NEW BOOK DUE IN 2016 After a few people kindly mentioned and shared details about my new book being available for pre-ordering I thought it would be a good time to post a brief update on its progress.</p><img src="http://www.visualisingdata.com/wp-content/uploads/2015/12/DataStories2015Review.png"></article>]]></description>
+            <link>http://www.visualisingdata.com/</link>
+            <guid isPermaLink="false">12f0ff23-cb0b-449b-be7f-89d7453e2f49</guid>
+            <pubDate>Fri, 08 Jan 2016 11:15:01 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
