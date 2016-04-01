@@ -1,6 +1,6 @@
 name: correlate
 favicon: null
-layout_spectrum: 0.68355
+layout_spectrum: 0.25
 typography_spectrum: 0.54183
 collections:
   - index:
@@ -34,8 +34,8 @@ color:
     - '#e2e6db'
     - '#6c2e35'
     - '#ae061e'
-  brandStrength: 1
-  lightness: 1
-  saturation: 0.5
+  brandStrength: 0.1875
+  lightness: 0.75
+  saturation: 0.3125
   rhythmicContrast: 0.5
 purpose: []
