@@ -1,7 +1,7 @@
 name: correlate
 favicon: null
-layout_spectrum: 0.25
-typography_spectrum: 0.54183
+layout_spectrum: 0.73321
+typography_spectrum: 0.62317
 collections:
   - index:
       path: /
