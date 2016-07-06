@@ -1,8 +1,7 @@
+name: correlate
+favicon: null
+layout_spectrum: 0.73321
 typography_spectrum: 0.59982
-opengraph:
-  image: null
-  type: null
-  appId: null
 collections:
   - index:
       path: /
@@ -15,27 +14,28 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-layout_spectrum: 0.73321
 title: correlate
 cta:
+  domain: null
   bucket: null
   version: null
-  domain: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.375
-  brandStrength: 0
-  rhythmicContrast: 0.5
   brandColors:
     - '#f1f1f1'
     - '#a0a0a0'
     - '#1b1922'
     - '#ff2f59'
     - '#a03856'
+  brandStrength: 0
   lightness: 0.5625
+  saturation: 0.375
+  rhythmicContrast: 0.5
 purpose: []
-favicon: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-name: correlate
