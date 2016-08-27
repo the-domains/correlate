@@ -24,6 +24,10 @@ cta:
   bucket: null
   version: null
   domain: null
+navigation:
+  - name: blog 2
+    id: 873ae52e-12e7-4ac0-92f2-80afcb1669ac
+    type: content
 favicon: null
 collections:
   - index:
