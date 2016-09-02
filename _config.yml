@@ -48,4 +48,5 @@ collections:
     permalink:
       path: '/:title/'
 title: correlate
+description: enterprise design
 purpose: []
