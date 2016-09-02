@@ -19,6 +19,10 @@ analytics:
   twitter: null
   google: null
   facebook: null
+author:
+  name: mark seddon
+  email: mark.seddon@correlate.eu.com
+  url: correlate.eu.com
 name: correlate
 cta:
   bucket: null
