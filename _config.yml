@@ -28,6 +28,9 @@ navigation:
   - name: blog
     id: 873ae52e-12e7-4ac0-92f2-80afcb1669ac
     type: content
+  - name: Services
+    id: cdd8ba32-3b77-4b39-960b-6d45c45e7eb6
+    type: content
 favicon: null
 collections:
   - index:
