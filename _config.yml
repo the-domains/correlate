@@ -31,6 +31,9 @@ navigation:
   - name: Services
     id: cdd8ba32-3b77-4b39-960b-6d45c45e7eb6
     type: content
+  - name: About
+    id: 06c2af7b-54e3-486b-980b-3629c8369dd6
+    type: content
 favicon: null
 collections:
   - index:
