@@ -38,6 +38,9 @@ navigation:
   - name: Blog
     id: 873ae52e-12e7-4ac0-92f2-80afcb1669ac
     type: content
+  - name: intro
+    id: 2cbfa761-23f6-4977-accb-6461884c287f
+    type: content
 favicon: null
 collections:
   - index:
