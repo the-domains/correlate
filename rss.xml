@@ -2,48 +2,37 @@
     <channel>
         <title><![CDATA[correlate]]></title>
         <description><![CDATA[correlate]]></description>
-        <link>https://thegrid.ai/correlate/</link>
+        <link>http://correlate.eu.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 06 Jul 2016 15:17:09 GMT</lastBuildDate>
-        <atom:link href="https://thegrid.ai/correlate/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 30 Aug 2016 21:34:33 GMT</lastBuildDate>
+        <atom:link href="http://correlate.eu.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>http://daringfireball.net/</p>]]></description>
-            <link>https://thegrid.ai/correlate/7556fefa-596f-4b48-b2ef-db5ce56dafe1/index.html</link>
-            <guid isPermaLink="false">7556fefa-596f-4b48-b2ef-db5ce56dafe1</guid>
-            <pubDate>Sun, 10 Apr 2016 14:18:55 GMT</pubDate>
+            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8413baf7b31d5cfbc3d636c15945da27c105b858.jpg">]]></description>
+            <link>http://correlate.eu.com/contact/index.html</link>
+            <guid isPermaLink="false">9ab46507-978f-46be-adc6-b7dd0e3d458d</guid>
+            <pubDate>Tue, 30 Aug 2016 20:49:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p># Enterprise Benefits
-**If** you have **control** you need **less**
-- Governance
-- Money
-- Communication 
-And can deliver faster
-
-**If** you have **knowledge** you need **less** 
-- documentation
-- Business requirements analysis
-- Money
-- Communication
-And can deliver faster
-
-**If** you have a consistent **strategy** and messaging you need **less** 
-- communication tools
-- communication
-- time to deliver
-- Money
-And can deliver faster
-
-**If** you have **simplicity** you need **less**
-- systems
-- projects
-- money
-And can deliver faster</p>]]></description>
-            <link>https://thegrid.ai/correlate/enterprise-benefits-if-you-have-control-you-need/index.html</link>
-            <guid isPermaLink="false">2cbfa761-23f6-4977-accb-6461884c287f</guid>
-            <pubDate>Fri, 01 Apr 2016 19:00:48 GMT</pubDate>
+            <description><![CDATA[<p>Services</p>]]></description>
+            <link>http://correlate.eu.com/services/index.html</link>
+            <guid isPermaLink="false">cdd8ba32-3b77-4b39-960b-6d45c45e7eb6</guid>
+            <pubDate>Tue, 30 Aug 2016 20:50:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[blog 2]]></title>
+            <description><![CDATA[<p>http://daringfireball.net/</p>]]></description>
+            <link>http://correlate.eu.com/blog-2/index.html</link>
+            <guid isPermaLink="false">873ae52e-12e7-4ac0-92f2-80afcb1669ac</guid>
+            <pubDate>Fri, 26 Aug 2016 18:05:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>http://daringfireball.net/</p>]]></description>
+            <link>http://correlate.eu.com/7556fefa-596f-4b48-b2ef-db5ce56dafe1/index.html</link>
+            <guid isPermaLink="false">7556fefa-596f-4b48-b2ef-db5ce56dafe1</guid>
+            <pubDate>Sun, 10 Apr 2016 14:18:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Home - Visualising Data]]></title>
