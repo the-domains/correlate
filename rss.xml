@@ -4,7 +4,7 @@
         <description><![CDATA[home]]></description>
         <link>http://correlate.eu.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 31 Aug 2016 18:34:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2016 18:35:10 GMT</lastBuildDate>
         <atom:link href="http://correlate.eu.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -21,25 +21,11 @@
             <pubDate>Tue, 30 Aug 2016 20:50:49 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[blog 2]]></title>
-            <description><![CDATA[<p>http://daringfireball.net/</p>]]></description>
-            <link>http://correlate.eu.com/blog-2/index.html</link>
-            <guid isPermaLink="false">873ae52e-12e7-4ac0-92f2-80afcb1669ac</guid>
-            <pubDate>Fri, 26 Aug 2016 18:05:02 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>http://daringfireball.net/</p>]]></description>
             <link>http://correlate.eu.com/7556fefa-596f-4b48-b2ef-db5ce56dafe1/index.html</link>
             <guid isPermaLink="false">7556fefa-596f-4b48-b2ef-db5ce56dafe1</guid>
             <pubDate>Sun, 10 Apr 2016 14:18:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Home - Visualising Data]]></title>
-            <description><![CDATA[<article><h1>Home - Visualising Data</h1><p>AN UPDATE ABOUT MY NEW BOOK DUE IN 2016 After a few people kindly mentioned and shared details about my new book being available for pre-ordering I thought it would be a good time to post a brief update on its progress.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a15fe42773c2a9e2e7c3c1bfff293b97161d2bcf.png"></article>]]></description>
-            <link>http://www.visualisingdata.com/</link>
-            <guid isPermaLink="false">12f0ff23-cb0b-449b-be7f-89d7453e2f49</guid>
-            <pubDate>Fri, 08 Jan 2016 11:15:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
