@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[correlate]]></title>
+        <description><![CDATA[correlate]]></description>
+        <link>http://correlate.eu.com/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 31 Aug 2016 19:00:31 GMT</lastBuildDate>
+        <atom:link href="http://correlate.eu.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>About</p>]]></description>
+            <link>http://correlate.eu.com/about/index.html</link>
+            <guid isPermaLink="false">06c2af7b-54e3-486b-980b-3629c8369dd6</guid>
+            <pubDate>Wed, 31 Aug 2016 19:00:30 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
