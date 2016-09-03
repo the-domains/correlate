@@ -1,7 +1,7 @@
 ---
-datePublished: '2016-08-31T19:24:29.030Z'
+datePublished: '2016-08-31T19:26:35.162Z'
 sourcePath: _posts/2016-08-31-photo-by-manuel-barroso-parejo-or-unsplash.md
-inFeed: true
+inFeed: false
 authors: []
 hasPage: true
 keywords: []
@@ -10,7 +10,7 @@ author:
   - name: ''
     url: ''
 via: {}
-dateModified: '2016-08-31T19:24:28.456Z'
+dateModified: '2016-08-31T19:26:34.602Z'
 title: Photo by Manuel Barroso Parejo | Unsplash
 app_links: []
 publisher:
