@@ -23,8 +23,7 @@ author:
   name: mark seddon
   email: mark.seddon@correlate.eu.com
   url: correlate.eu.com
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/a82b534d-9da8-4ee6-8170-5001d8aed93e.png
+logo: null
 name: home
 cta:
   bucket: null
