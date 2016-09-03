@@ -1,26 +1,25 @@
 ---
-inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: null
-inLanguage: null
-starred: false
-keywords: []
-description: ''
-datePublished: '2016-01-06T21:17:27.812Z'
-dateModified: '2016-01-06T21:17:13.179Z'
-title: Correlate
-author: []
+datePublished: '2016-08-31T17:43:34.014Z'
 sourcePath: _posts/2016-01-06-correlate.md
-published: true
+inFeed: true
+isBasedOnUrl: null
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+hasPage: false
+keywords: []
+author: []
+dateModified: '2016-08-31T17:43:33.407Z'
+title: ''
+publisher: {}
+description: Blogs
+inLanguage: null
+inNav: false
+via: {}
+starred: false
 _type: Blurb
 
 ---
-* Blogs
-* What we do
+[Blogs][0]
+
+what we do
+
+[0]: null
