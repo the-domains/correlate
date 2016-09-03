@@ -43,6 +43,6 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-title: correlate
+title: ''
 description: ''
 purpose: []
